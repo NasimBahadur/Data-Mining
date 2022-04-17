@@ -1,3 +1,4 @@
+# Take starting point(x1,y1) and ending point(x2,y2) as input and find the coordinates to draw a line.
 class Point:
     def __init__(self, x, y):
         self.x = x
