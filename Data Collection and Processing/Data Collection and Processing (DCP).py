@@ -1,8 +1,3 @@
-'''
-Group Members:
-1) Nasim Bahadur (Id: 2018-1-60-073)
-2) Md Shakirul Islam (Id: 2018-1-60-064)
-'''
 import math, sys, tracemalloc, time
 from csv import writer
 
@@ -114,7 +109,6 @@ def FlipPattern(DataSet, Thold, OutputFileName, m, rt):
             writer_object.writerow([Thold, Runtime, ""])
 
 
-# Press the left green triangle button in the gutter to run the script.
 if __name__ == '__main__':
     # name = input("Enter your name:")
     n = len(sys.argv) # n: total arguments
