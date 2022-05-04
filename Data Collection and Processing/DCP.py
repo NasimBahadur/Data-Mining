@@ -1,8 +1,3 @@
-'''
-Group Members:
-1) Nasim Bahadur (Id: 2018-1-60-073)
-2) Md Shakirul Islam (Id: 2018-1-60-064)
-'''
 import math, sys, tracemalloc, time
 from csv import writer
 
