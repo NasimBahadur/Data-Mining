@@ -4,7 +4,6 @@ In this Data Mining related work, A transactional dataset is used to mine the mo
 
 <p align="center">
   <img src=https://user-images.githubusercontent.com/43060004/180801174-9785353d-25df-4921-b607-3e541d6818e4.png width="400" height="300"/>
-  
   <img src=https://user-images.githubusercontent.com/43060004/180801191-47ead74a-7f84-4ef2-9577-46c82592acb7.png width="400" height="300"/>
 </p>
 
